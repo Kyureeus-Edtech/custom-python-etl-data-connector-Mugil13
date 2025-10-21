@@ -1,0 +1,18 @@
+# Core dependencies
+pandas==2.2.3
+numpy==2.1.1
+
+# Database (MongoDB)
+pymongo==4.10.1
+
+# Validation & Logging
+python-dotenv==1.0.1
+loguru==0.7.2
+
+# Optional utilities (for ETL scripts and YAML validation)
+pyyaml==6.0.2
+tqdm==4.66.5
+
+# Testing and linting (optional but good for completeness)
+pytest==8.3.3
+flake8==7.1.1
